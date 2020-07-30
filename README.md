@@ -7,3 +7,5 @@ home.html is the homepage of my project.
 acacia.html and poyflora.html are both description pages of one product.
 buy.html is a page where you can buy honey, but its not yet working. 
 ingredients.html is where you can find the nutritional values. 
+
+https://norahev.github.io/honeyexpress/ check it out!
